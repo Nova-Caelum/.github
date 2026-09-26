@@ -1,8 +1,8 @@
 ## Nova Caelum
 
-Modular agent systems for users at every technical level, built and run in-house first. These are the parts of the Nova Caelum system we think are most useful to everyone, and real examples of agents doing reliable work: building, reviewing, and checking their own claims.
+Modular agent systems for users at every technical level, built and run in-house first. These are the parts of the Nova Caelum system we think are most useful to everyone, and that serve as real examples of agents doing reliable work: designing, building, reviewing, and performing in real world situations.
 
-Everything here came out of a working system: the loop our agents build inside, the checks that stop them claiming work they haven't verified, and the reviewers that read their pull requests. Each repo is published as it actually runs, and where it makes sense, stripped back for easy installation.
+Everything here is a building block within our AI-native production system. the cross-harness framework our agents run in, the guardrails and monitors that stop them claiming work they haven't verified, and the automations to unsure accuracy and fidelity standards don't slow you down. Each tool is taken as it actually runs, and refined to ensure ease of installation and performance across a wider range of stacks.
 
 ### Products
 
