@@ -12,7 +12,7 @@ Everything here began in our own working system. We use these tools to plan, bui
 
 | Product | What it helps you do |
 | --- | --- |
-| [**Technical Cofounder**](https://github.com/Nova-Caelum/technical-cofounder) | Give your idea an AI senior dev team. Work with a technical cofounder to shape the plan, an engineer to build it, a DevOps lead to review the work, and a forward-deployed engineer to help you get started, learn, and extend your team. For solo builders and the build-curious. Hyperspace Engine installs with the team. |
+| [**Technical Cofounder**](https://github.com/Nova-Caelum/technical-cofounder) | Give your idea an AI senior dev team. Work with a technical cofounder to shape the plan, an engineer to build it, a DevOps lead to review the work and support the system, and a forward-deployed engineer to help you get started, learn, and extend your team. For solo builders and the build-curious. Hyperspace Engine installs with the team. |
 | [**Hyperspace Engine**](https://github.com/Nova-Caelum/hyperspace-engine) | Turn a goal into a plan and follow it through to use. A shared task graph keeps the work visible, while deterministic checks and intelligent judgment help assess the evidence at each stage. Review the results and step in where your judgment matters. |
 | [**Caelos**](https://github.com/Nova-Caelum/Caelos) | Think, build, and carry work forward with your agents in one place. Follow the plan and coordinate your team without living in a terminal. |
 | [**no-mistakes**](https://github.com/Nova-Caelum/no-mistakes) | Give your agents three skills for checking assumptions, working through complex problems, and verifying results before claiming completion. Installs as a plugin. |
